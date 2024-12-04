@@ -32,7 +32,7 @@ To enable Telegram integration:
 2. Enable the Telegram messaging feature.
 3. The application will send a message to your Telegram account if no interaction is detected for the configured time.
 
-4. # **BDOMapTracker Kullanım Kılavuzu**
+# **BDOMapTracker Kullanım Kılavuzu**
 
 
 
